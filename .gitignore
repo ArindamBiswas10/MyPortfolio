@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Secrets
+.env
+.env.*
+!.env.example
